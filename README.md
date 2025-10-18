@@ -21,11 +21,11 @@ Each section below contains artefacts and reflections that demonstrate my person
 
 ### 🗂️ 1. Business Communication
 **Evidence / Artefacts:**
-- [User Requirements Document](business-communication/UserRequirements.pdf)
-- [Retrospective Presentation](business-communication/Retrospective-StudentRecruitmentPortal.pdf)
-- [Product Backlog Document](business-communication/ProductBacklog.pdf)
+- [User Requirements Document](business-communication/FID-%20USER20%REQUIREMENTS%20UPDATED20%(1).pdf)
+- [Retrospective Presentation](business-communication/Retrospective-StudentRecruitmentPortal(17%20October2025).pdf)
+- [Product Backlog Document](business-communication/Product-Backlog-Updated.docx)
 - [Meeting Note](business-communication/Minutes%20of%20the%20Meeting.pdf)
-- [Link to Presentation](business-communication/Link%20to%20recent20%meeting%20with%20team20%members)
+- [Link to Presentation](business-communication/Link%20to%20recent20%meeting%20with%20Team20%members)
 
 **Reflection.md (STAR):**
 > **Situation:** As the group leader, I was responsible for presenting key WIL Project documents such as the User Requirements, Product Backlog, and Retrospective reports.  
@@ -38,7 +38,7 @@ Each section below contains artefacts and reflections that demonstrate my person
 ### 💼 2. Interview Skills
 **Evidence / Artefacts:**
 - [Meeting](interview-skills/Screenshot%20of%20meeting.png)
-- [Functional Requirements](interview-skills/Functional%20Requirements.pdf)
+- [Functional Requirements](interview-skills/Functional%20Requirements%20(2).pdf)
 
 **Reflection.md (STAR):**
 > **Situation:** During work readiness sessions, I participated in interview simulations.  
@@ -51,7 +51,7 @@ Each section below contains artefacts and reflections that demonstrate my person
 ### 🎤 3. Mock Interview
 **Evidence / Artefacts:**
 - [Mock Interview Recording](mock-interview/Mock-interview.mp4)
-- [Retrospective](Retrospective.docx)
+- [Retrospective](Retrospective-StudentRecruitmentPortal%20(1020%October2025).docx)
 
 **Reflection (STAR):**
 > **Situation:** I participated in a mock interview to simulate a real-world interview setting.  
