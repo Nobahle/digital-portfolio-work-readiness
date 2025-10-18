@@ -1,8 +1,11 @@
-**Situation:** I led a group in completing the WIL management system project. 
+**Situation:**
+Throughout our WIL project, I was responsible for ensuring that the team maintained professional behavior and met deadlines.
 
-**Task:** To demonstrate professional behavior in all meetings and interactions. 
+**Task:**
+My objective was to demonstrate leadership, respect, and professionalism in all our group interactions.
 
-**Action:** I maintain punctuality, follow up professionally, and communicate respectfully with all team members.  
+**Action:**
+I promoted punctuality, encouraged teamwork, delegated tasks fairly, and maintained open communication. I also modeled professional behavior during meetings and presentations.
 
-**Result:** My team stayed organized, tasks were completed on time, and I strengthened my workplace etiquette skills.
-
+**Result:**
+This experience helped me develop leadership discipline, teamwork, and accountability — key traits for any professional environment.
