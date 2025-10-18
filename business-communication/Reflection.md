@@ -1,8 +1,11 @@
-**Situation:** As group leader, I am responsible for presenting project updates and reports for our WIL management system.  
+**Situation:**
+As the group leader in our CPUT WIL Project team, I was responsible for presenting project updates, such as the User Requirements, Retrospective, and Product Backlog documents.
 
-**Task:** My goal is to ensure the team and lecturer understood our project progress clearly and professionally.  
+**Task:**
+My goal was to ensure that all project details were clearly communicated to both the lecturer and the team, demonstrating effective professional communication.
 
-**Action:** I prepare slides or documents, rehearsed presentations, and delivered updates during team and lecturer meetings.
+**Action:**
+I prepared structured PowerPoint slides, used formal business language during presentations, and practiced delivering confidently. I also arranged meetings with my team to provide updates and gather feedback.
 
-**Result:** My team received clear guidance, feedback was implemented effectively, and I developed stronger presentation and communication skills.
-
+**Result:**
+Through this, I improved my confidence in public speaking, learned to communicate complex project ideas clearly, and strengthened my leadership and teamwork skills.
