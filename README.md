@@ -24,8 +24,8 @@ Each section below contains artefacts and reflections that demonstrate my person
 - [User Requirements Document](business-communication/UserRequirements.pdf)
 - [Retrospective Presentation](business-communication/Retrospective-StudentRecruitmentPortal.pdf)
 - [Product Backlog Document](business-communication/ProductBacklog.pdf)
-- [Meeting Notes](business-communication/Minutes of the Meeting.pdf)
-- [Link to Presentation](business-communication/Link to recent meeting with team members)
+- [Meeting Note](business-communication/Minutes%20of%20the%20Meeting.pdf)
+- [Link to Presentation](business-communication/Link%20to%20recent20%meeting%20with%20team20%members)
 
 **Reflection.md (STAR):**
 > **Situation:** As the group leader, I was responsible for presenting key WIL Project documents such as the User Requirements, Product Backlog, and Retrospective reports.  
@@ -37,8 +37,8 @@ Each section below contains artefacts and reflections that demonstrate my person
 
 ### 💼 2. Interview Skills
 **Evidence / Artefacts:**
-- [Meeting](interview-skills/Screenshot of meeting.png)
-- [Functional Requirements](interview-skills/Functional Requirements.pdf)
+- [Meeting](interview-skills/Screenshot%20of%20meeting.png)
+- [Functional Requirements](interview-skills/Functional%20Requirements.pdf)
 
 **Reflection.md (STAR):**
 > **Situation:** During work readiness sessions, I participated in interview simulations.  
@@ -64,9 +64,9 @@ Each section below contains artefacts and reflections that demonstrate my person
 ### 🌐 4. Professional Networking
 **Evidence / Artefacts:**
 - [LinkedIn Profile Screenshot](professional-networking/LinkedInProfile.png)
-- [Meeting Schedule ](professional-networking/Screenshot of Teams collaborate.png)
-- [Meeting](professional-networking/Screenshot of formal meeting.png)
-- [Group chat screenshot](professional-networking/screenshot of Whatsapp-GroupChat)
+- [Meeting Schedule](professional-networking/Screenshot%20of%20Teams%20collaborate.png)
+- [Meeting](professional-networking/Screenshot%20of%20formal%20meeting.png)
+- [Group Chat Screenshot](professional-networking/screenshot%20of%20Whatsapp-GroupChat.png)
 - [GitHub Collaboration Evidence](professional-networking/GitHub-Collaboration.png)
 
 **Reflection (STAR):**
@@ -79,10 +79,10 @@ Each section below contains artefacts and reflections that demonstrate my person
 
 ### 🧍‍♀️ 5. Workplace Etiquette
 **Evidence / Artefacts:**
-- [Team Meeting Feedback](workplace-etiquette/Recording Link)
+- [Team Meeting Feedback](workplace-etiquette/Recording%20Link)
 - [Reflection Report](workplace-etiquette/Reflection)
-- [Task Delegation Sheet](workplace-etiquette/Formal meeting Recording Link)
-- [Professional Communication Samples](workplace-etiquette/Screenshot of checking progress.png)
+- [Task Delegation Sheet](workplace-etiquette/Formal%20meeting20%Recording%20Link)
+- [Professional Communication Samples](workplace-etiquette/Screenshot%20of20%checking%20progress.png)
 
 **Reflection (STAR):**
 > **Situation:** As a project leader, I ensured that our team maintained professionalism and respect.  
