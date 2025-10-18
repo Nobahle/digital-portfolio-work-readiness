@@ -1,4 +1,4 @@
-**Situation:** I often present our WIL project to the mentor and team members.
+**Situation:** I often present our WIL project to the mentor, team members, and sometimes to clients.
 
 **Task:** To answer questions clearly, justify our decisions, and present myself professionally.
 
