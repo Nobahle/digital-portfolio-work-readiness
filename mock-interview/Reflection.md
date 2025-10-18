@@ -1,8 +1,11 @@
-**Situation:** During team and mentor presentations, I receive questions and constructive feedback. 
+**Situation:**
+As part of the work readiness training, I participated in a mock interview to simulate a real-world interview environment.
 
-**Task:** To demonstrate professionalism and assess my own presentation performance.
+**Task:**
+I needed to demonstrate professional communication, confidence, and the ability to describe my contributions to our WIL project effectively.
 
-**Action:** I incorporate feedback, practice timing, and refine delivery.  
+**Action:**
+I prepared by reviewing common interview questions, dressed professionally, maintained eye contact, and practiced active listening. I also used examples from our WIL Management System project to support my answers.
 
-**Result:** My confidence and professionalism improved, and I could handle unexpected questions effectively.
-
+**Result:**
+The mock interview gave me insight into how to improve my responses and body language. I gained confidence in discussing my technical and leadership skills professionally.
